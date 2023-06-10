@@ -1,0 +1,28 @@
+Allen, Barry, 6
+Allen, Luna, 11
+Barnes, James, 10
+Chang, Cho, 17
+Chen, Kevin, 16
+Chen, Alex, 14
+Davis, Olivia, 13
+Garcia, David, 7
+Garcia, Gilderoy, 1
+Grayson, Dick, 4
+Green, Samantha, 5
+Green, Fleur, 12
+Johnson, Emma, 9
+Johnson, Tyler, 8
+Lovegood, Luna, 15
+Lupin, Remus, 19
+Riddle, Tom, 2
+Rogers, Steve, 18
+Todd, Jason, 3
+Wayne, Damian, 20
+
+GOALIE: Olivia Davis, 13
+DEFENDER: Barry Allen, 6
+DEFENDER: Luna Allen, 11
+MIDFIELDER: Dick Grayson, 4
+MIDFIELDER: Remus Lupin, 19
+MIDFIELDER: Steve Rogers, 18
+FORWARD: James Barnes, 10
